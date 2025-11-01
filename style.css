@@ -42,5 +42,6 @@ img{
     }
     .container{
         width: 200px;
+        justify-items: center;
     }
 }
